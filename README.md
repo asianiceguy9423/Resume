@@ -6,7 +6,6 @@
 <hr>
 
 ### 前端技能
-<BR>
 - **Vue與Vue3**： 熟悉 option api 與 composition api，具備 Vuex 狀態管理經驗，能進行 Vue Router 路由處理，獨立開發 SPA（單頁應用程式），實現前後端分離，提升開發效率與使用者體驗。
 - **JavaScript**： 使用 JavaScript（含 ES5/ES6+ 語法），可獨立開發具互動性的動態網頁功能。
 - **HTML5/CSS3/SCSS**： 使用語意化標籤與 CSS 各項屬性（如 Grid、Flexbox、Position、Z-index、Box Model 等），能靈活排版與打造流暢的網頁布局。
