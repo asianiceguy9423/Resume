@@ -8,55 +8,39 @@
 ### 技能專長
 **前端開發**
 <BR>
-* Vue2 / Vue3
+   * Vue2 / Vue3
       * 熟悉 Option API 與 Composition API 撰寫模式
       * 使用 Vuex 管理全站狀態
       * 掌握 Vue Router 處理前端路由
       * 能獨立構建 SPA（單頁應用），實現前後端分離與效能優化
-* JavaScript
+   * JavaScript
       * 使用 ES5 / ES6+ 語法
       * 可獨立開發具有互動性的網頁功能
-* HTML5 / CSS3 / SCSS
+   * HTML5 / CSS3 / SCSS
       * 使用語意化標籤結構網頁
       * 使用 CSS 各項屬性（如 Grid、Flexbox、Position、Z-index、Box Model 等）
       * 使用 SCSS 模組化撰寫
       * 能靈活實作 RWD 響應式設計，支援桌機、平板與手機裝置
       * 無需依賴框架也能完成切版，亦可使用 Bootstrap 以加速開發流程。
-* JavaScript
+   * JavaScript
       * 使用 Axios 發送 HTTP 請求
       * 配合 Vuex actions 管理資料流，實現前端資料動態更新
-* UI / 視覺設計
+   * UI / 視覺設計
       * 熟悉 Photoshop（PS）、Illustrator（AI）進行圖像處理與版面設計
       * 使用 After Effects（AE）製作簡易動畫與影片素材，提升網站視覺表現
 
 **後端開發**
 <BR>
-* PHP
+   * PHP
       * 可獨立撰寫後端 API 與前端串接資料
       * 實作資料清洗與輸入驗證，防範 XSS、SQL Injection 等攻擊
       * 熟悉 Session 控制與基本權限管理機制
 
 **資料庫管理**
 <BR>
-* MySQL / SQL
+   * MySQL / SQL
       * 撰寫資料查詢、修改、刪除語法
       * 設計基本資料表架構並整合至後端 API 使用
-  --------------
-
-
-### 前端技能
-- **Vue與Vue3**： 熟悉 option api 與 composition api，具備 Vuex 狀態管理經驗，能進行 Vue Router 路由處理，獨立開發 SPA（單頁應用程式），實現前後端分離，提升開發效率與使用者體驗。
-- **JavaScript**： 使用 JavaScript（含 ES5/ES6+ 語法），可獨立開發具互動性的動態網頁功能。
-- **HTML5/CSS3/SCSS**： 使用語意化標籤與 CSS 各項屬性（如 Grid、Flexbox、Position、Z-index、Box Model 等），能靈活排版與打造流暢的網頁布局。
-- **API 串接與資料渲染**： 使用 axios 進行 API 請求，實現資料的即時取得與畫面更新。
-- **響應式切版**： 具備 RWD 響應式設計能力，可針對桌機、平板與手機設計不同版型，無需依賴框架也能完成切版；亦可使用 Bootstrap 以加速開發流程。
-- **UI / 視覺設計**： 使用 Photoshop、Illustrator 進行圖像處理與排版，搭配 After Effects 製作簡單動畫與影片，提升整體視覺表現。
-
-### 後端技能
-- **PHP**： 可獨立撰寫 API 與前端串接，並處理資料傳輸。資料清洗與輸入驗證，能防範 XSS、SQL Injection 等常見攻擊，強化網站安全性。
-
-### 資料庫技能
-- **MySQL / SQL 語法**： 資料查詢、修改、刪除與結構設計，具備基本資料庫規劃與操作能力。
 <hr>
 
 ### 經歷
