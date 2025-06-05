@@ -95,8 +95,8 @@
    * 學習網站開發技術
 <hr>
 
-### 作品集
- # 諮詢事務所網站
+ # 作品集
+ ### 專案特色
   <a href="https://github.com/asianiceguy9423/consulting_firm_website/tree/main" target="blank"><B>consulting_firm_website</B></a> <BR>
   ![navbar ](https://github.com/user-attachments/assets/7e74e135-c8a0-4624-b934-837b2415a445)
   ![後台燈入](https://github.com/user-attachments/assets/2c852118-76ab-4a15-8538-388d55f05d4f)
@@ -110,7 +110,7 @@
 - **安全性防護:** 後端實作多重防護機制，包括將用戶輸入轉換為純文字以防止 XSS 與 SQL 注入攻擊；登入機制則透過比對瀏覽器 Cookie 中的 Session ID 與資料庫中所儲存的 Session ID，若不一致即強制登出，確保後台存取安全。
 - **惰加載:** 網站圖片皆採用惰性加載技術，僅在即將進入視窗範圍時才載入，藉此有效降低初始載入資源，提升頁面載入效率與使用者體驗。
 - <BR>
- # 諮詢事務所網站
+ ### 諮詢事務所網站
  <a href="https://github.com/asianiceguy9423/clothes_shop/tree/main" target="blank"><B>clothes_shop</B></a> <BR>
  ![官網整體](https://github.com/user-attachments/assets/4e383349-e0a6-46e6-9e09-a774aa7472ea)
  ![購買示範](https://github.com/user-attachments/assets/452acd8c-5996-463b-a819-4904d099609c)
