@@ -109,3 +109,15 @@
 - **響應式設計:** 前後台網站皆採用響應式設計，確保在各種裝置（如桌面、平板及手機）上都有良好的使用體驗。
 - **安全性防護:** 後端實作多重防護機制，包括將用戶輸入轉換為純文字以防止 XSS 與 SQL 注入攻擊；登入機制則透過比對瀏覽器 Cookie 中的 Session ID 與資料庫中所儲存的 Session ID，若不一致即強制登出，確保後台存取安全。
 - **惰加載:** 網站圖片皆採用惰性加載技術，僅在即將進入視窗範圍時才載入，藉此有效降低初始載入資源，提升頁面載入效率與使用者體驗。
+- <BR>
+ # 諮詢事務所網站
+ <a href="https://github.com/asianiceguy9423/clothes_shop/tree/main" target="blank"><B>clothes_shop</B></a> <BR>
+ ![官網整體](https://github.com/user-attachments/assets/4e383349-e0a6-46e6-9e09-a774aa7472ea)
+ ![購買示範](https://github.com/user-attachments/assets/452acd8c-5996-463b-a819-4904d099609c)
+ ![購物車示範1](https://github.com/user-attachments/assets/406b734a-2b6a-4a8b-af35-c9d5f1cd14ad)
+
+ - **前端框架:** 採用 Vue 3 的 Composition API 建構元件邏輯，提升可讀性與維護性。
+- **響應式設計:** 使用 Bootstrap 實現跨裝置的響應式版面，確保手機與桌機皆有良好體驗。
+- **購物車功能（LocalStorage）:** 商品資料儲存於 localStorage，使用者即使重新整理或離開頁面也能保留購物紀錄。
+- **表單驗證與即時回饋：** 表單提交時提供成功與錯誤提示（如彈窗提示），加強用戶互動與操作引導。
+- **模組化元件結構：** 所有功能皆以元件方式拆分，提升開發效率與程式維護性。
