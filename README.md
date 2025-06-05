@@ -95,8 +95,7 @@
    * 學習網站開發技術
 <hr>
 
- # 作品集
- ### 專案特色
+ ### 作品集
   <a href="https://github.com/asianiceguy9423/consulting_firm_website/tree/main" target="blank"><B>consulting_firm_website</B></a> <BR>
   ![navbar ](https://github.com/user-attachments/assets/7e74e135-c8a0-4624-b934-837b2415a445)
   ![後台燈入](https://github.com/user-attachments/assets/2c852118-76ab-4a15-8538-388d55f05d4f)
