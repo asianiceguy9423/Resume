@@ -148,7 +148,7 @@
 
 **Cat Game**
 <BR>
-<a href="https://github.com/asianiceguy9423/cat_game" target="blank"><B>clothes_shop</B></a> <BR>
+<a href="https://github.com/asianiceguy9423/cat_game" target="blank"><B>cat_game</B></a> <BR>
 
 - **前端框架:** 採用 Vue 3 Composition API 結合 JavaScript 與 CSS 實作介面與互動功能。
 - **響應式設計:** 支援桌面與手機裝置，並針對行動端取消「視窗可拖曳」功能，提升操作友善度。
