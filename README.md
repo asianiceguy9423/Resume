@@ -14,6 +14,7 @@
    * Vue2 / Vue3
       * 使用 Option API 與 Composition API 撰寫模式
       * 使用 Vuex 與 Pinia 管理全站狀態
+      * 使用 WebSockets API 建立持久雙向連線的能力，實現即時數據推播功能。
       * 掌握 Vue Router 處理前端路由
       * 能獨立構建 SPA（單頁應用），實現前後端分離與效能優化
    * JavaScript
